@@ -42,7 +42,8 @@
   "homepage": "https://github.com/receiptline/receiptline#readme",
   "dependencies": {
     "iconv-lite": "^0.6.0",
-    "pngjs": "^5.0.0"
+    "pngjs": "^5.0.0",
+    "receiptline": "^1.16.1"
   },
   "devDependencies": {
     "qrcode-generator": "^1.4.4"
